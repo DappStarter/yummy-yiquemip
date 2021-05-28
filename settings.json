@@ -1,0 +1,9 @@
+{
+    "name": "HankNFT",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/react": true,
+        "/category/nft/core-basic_nft": true
+    }
+}
